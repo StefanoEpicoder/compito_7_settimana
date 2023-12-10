@@ -1,0 +1,15 @@
+body {
+  background-image: url(https://img.freepik.com/premium-photo/technology-background-with-blue-color-technology-background-images-technology-background-abstract-technology_372999-316.jpg?w=1060);
+  color: white;
+  background-size: cover;
+}
+.card {
+  border-radius: 12px;
+}
+
+.img-fluid {
+  max-width: 300px;
+  background-color: #fbf7e3;
+  border-radius: 10px;
+  overflow: hidden;
+}
